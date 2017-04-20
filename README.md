@@ -1,2 +1,3 @@
 # hello-world
-familiarizing with github
+...familiarizing with github...
+finished familiarizing!
